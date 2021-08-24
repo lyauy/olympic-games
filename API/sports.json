@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "épreuve":"Gymnastique",
+        "lieu": "Paris",
+        "date": "2024-08-11",
+        "horaire": "7:00"
+    },
+    {
+        "id": 2,
+        "épreuve":"Athlétisme",
+        "lieu": "Paris",
+        "date": "2024-08-12",
+        "horaire": "7:00"
+    },
+    {
+        "id": 3,
+        "épreuve":"Escrime",
+        "lieu": "Paris",
+        "date": "2024-08-13",
+        "horaire": "7:00"
+    }
+]
