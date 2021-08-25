@@ -1,23 +1,39 @@
 [
     {
-        "id": 1,
-        "epreuve":"Gymnastique",
-        "lieu": "Paris",
-        "date": "2024-08-11",
-        "horaire": "10:00"
+        "id_sport": "1",
+        "nom": "Gymnastique",
+        "epreuves": [
+            {
+                "id_epreuve": "1",
+                "epreuve":"anneaux",
+                "lieu": "Paris",
+                "date": "2024-08-11",
+                "horaire": "10:00",
+                "resultats": []
+            },
+            {
+                "id_epreuve": "2",
+                "epreuve":"poutre",
+                "lieu": "Paris",
+                "date": "2024-08-11",
+                "horaire": "11:00",
+                "resultats": []
+            }
+        ]
+        
     },
     {
-        "id": 2,
-        "epreuve":"Athlétisme",
-        "lieu": "Paris",
-        "date": "2024-08-12",
-        "horaire": "17:00"
-    },
-    {
-        "id": 3,
-        "epreuve":"Escrime",
-        "lieu": "Paris",
-        "date": "2024-08-13",
-        "horaire": "17:00"
+        "id_sport": "2",
+        "nom": "Athlétisme",
+        "epreuves": [
+            {
+                "id_epreuve": "1",
+                "epreuve":"100m",
+                "lieu": "Paris",
+                "date": "2024-08-12",
+                "horaire": "17:00",
+                "resultats": []
+            }
+        ]
     }
 ]
